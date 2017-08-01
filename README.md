@@ -45,7 +45,7 @@ Start the containers:
 - ```dockrails start```
 
 Stop/Remove the containers:
-- ```dockrails clear```
+- ```dockrails clean```
 
 Run a command inside a container:
 - ```dockrails run CONTAINER COMMAND``` (ex: dockrails run web bundle install)
